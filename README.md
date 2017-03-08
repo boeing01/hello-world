@@ -2,5 +2,5 @@
 A repository
 
 New lines in the file.
-Another new line.
+Another new paragraph.
 
