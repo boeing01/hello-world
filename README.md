@@ -1,6 +1,7 @@
 # hello-world
 A repository
 
-New lines in the file.
-Another new paragraph.
 
+Another new paragraph.
+# More lines
+# And one more
